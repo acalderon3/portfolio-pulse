@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Portfolio Pulse</title>
+<meta name="description" content="An AI-assisted IT portfolio system of record: one health definition, receipts for every field, dependency risk and a verified weekly pre-read. Synthetic demo data.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<script>try{const t=localStorage.getItem('pp-theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+</head>
+<body>
+<header class="top">
+  <div class="top-inner">
+    <div class="brand">
+      <h1>Portfolio Pulse</h1>
+      <span class="sub">One place for IT portfolio status, ownership and risk</span>
+      <span class="spacer"></span>
+      <button class="theme-btn" id="theme" type="button" aria-label="Toggle dark mode">Theme</button>
+    </div>
+    <nav class="tabs" id="tabs">
+      <a href="#overview">Overview</a>
+      <a href="#register">Register</a>
+      <a href="#dependencies">Dependencies</a>
+      <a href="#risks">Risks</a>
+      <a href="#preread">Weekly pre-read</a>
+      <a href="#intake">Intake</a>
+      <a href="#method">How it works</a>
+    </nav>
+  </div>
+</header>
+<main id="view"><p class="muted">Loading the portfolio snapshot…</p></main>
+<footer>
+  All data is synthetic. Kestrel Health is a fictional company, and its programs, people and numbers are generated.
+  This demo runs entirely in the browser from a recorded snapshot. It makes no API calls.
+</footer>
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" aria-live="polite"></aside>
+<div class="tip" id="tip"></div>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,362 @@
+[
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-08-17T08:10:00",
+  "text": "I'm driving desk bot from here on, ping me with anything."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-08-24T11:03:00",
+  "text": "Reminder of why desk bot matters: deflects password and access requests."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-08-24T12:06:00",
+  "text": "I'm driving room refresh from here on, ping me with anything."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-01T15:06:00",
+  "text": "Quick asset recon kickoff notes: I'm the owner, weekly updates here."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-02T11:53:00",
+  "text": "FYI desk bot can't start its pilot until ITSM is live."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-02T17:57:00",
+  "text": "No date for desk bot yet, still scoping."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-03T12:27:00",
+  "text": "Quick DLP kickoff notes: I'm the owner, weekly updates here."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Chris Duarte",
+  "ts": "2026-09-04T12:56:00",
+  "text": "Picking up ZTNA. I'll own it going forward."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-04T13:02:00",
+  "text": "Picking up license reclamation. I'll own it going forward."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-04T14:52:00",
+  "text": "room refresh: moving the target to 12/11 (was 12/4). Will explain in the weekly."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-04T16:46:00",
+  "text": "I'm driving ITSM from here on, ping me with anything."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Chris Duarte",
+  "ts": "2026-09-06T09:50:00",
+  "text": "Quick MDM kickoff notes: I'm the owner, weekly updates here."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-07T12:09:00",
+  "text": "I'm driving Wi-Fi from here on, ping me with anything."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Chris Duarte",
+  "ts": "2026-09-07T16:53:00",
+  "text": "Reminder of why MDM matters: two MDM tools with inconsistent policy."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-08T11:12:00",
+  "text": "Quick badges kickoff notes: I'm the owner, weekly updates here."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-08T12:05:00",
+  "text": "ITSM is holding 12/11 as the go-live."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-08T17:04:00",
+  "text": "Reminder of why asset recon matters: asset records don't match reality."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-09T09:08:00",
+  "text": "I'm driving JML from here on, ping me with anything."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-09T16:43:00",
+  "text": "Quick laptop refresh kickoff notes: I'm the owner, weekly updates here."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-10T10:35:00",
+  "text": "laptop refresh is holding 4/23 as the go-live."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-10T13:02:00",
+  "text": "Reminder of why badges matters: badge access is not tied to HR status."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-10T15:20:00",
+  "text": "I'm driving Austin network from here on, ping me with anything."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-12T09:23:00",
+  "text": "Does anyone own printers now that Jess moved teams? Nobody's picked it up."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Chris Duarte",
+  "ts": "2026-09-12T13:37:00",
+  "text": "Reminder: change freeze calendar is pinned in #it-leads."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Chris Duarte",
+  "ts": "2026-09-12T17:52:00",
+  "text": "Reminder of why ZTNA matters: replaces the legacy VPN."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-13T10:04:00",
+  "text": "Reminder of why JML matters: leavers keep access for days; open SOX finding."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-14T11:25:00",
+  "text": "Reminder of why Wi-Fi matters: capacity for twice the headcount."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-15T12:12:00",
+  "text": "Quick patching kickoff notes: I'm the owner, weekly updates here."
+ },
+ {
+  "channel": "#it-leads",
+  "user": "Sofia Lindqvist",
+  "ts": "2026-09-15T13:05:00",
+  "text": "Anyone else seeing slow Jira this week?"
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-16T14:09:00",
+  "text": "Who took the spare USB-C dock from the 3rd floor closet?"
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Chris Duarte",
+  "ts": "2026-09-16T15:51:00",
+  "text": "Quick onboarding kits kickoff notes: I'm the owner, weekly updates here."
+ },
+ {
+  "channel": "#it-leads",
+  "user": "Grace Okafor",
+  "ts": "2026-09-16T17:30:00",
+  "text": "Auditors will test leaver deprovisioning in December. Our SOX ITGC remediation assumes JML is automating it by then."
+ },
+ {
+  "channel": "#it-leads",
+  "user": "Rahul Mehta",
+  "ts": "2026-09-17T13:05:00",
+  "text": "Year-end close freeze for ERP is 12/18 to 1/8 as usual."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-17T16:07:00",
+  "text": "Reminder of why Austin network matters: office switches are end-of-support."
+ },
+ {
+  "channel": "#it-leads",
+  "user": "Priya Natarajan",
+  "ts": "2026-09-18T10:14:00",
+  "text": "For the APAC BPO go-live on 11/2 we're counting on JML to create the agents' accounts. No JML, no agents on the phones."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-19T10:04:00",
+  "text": "DLP still on track for Dec 4."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-19T10:09:00",
+  "text": "Okta had a 10 min blip this morning, resolved."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-19T12:22:00",
+  "text": "Reminder of why patching matters: patch compliance is 78% against a 95% target."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-19T12:48:00",
+  "text": "asset recon is done 🎉 closed out on 9/1."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-20T17:43:00",
+  "text": "printers is holding 12/18 as the go-live."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-21T11:19:00",
+  "text": "ITSM is still blocked: Waiting on vendor SOW countersignature. Been waiting since 9/21."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Chris Duarte",
+  "ts": "2026-09-21T12:01:00",
+  "text": "MDM: moving the target to 4/9 (was 3/12). Will explain in the weekly."
+ },
+ {
+  "channel": "#it-leads",
+  "user": "Mei Tanaka",
+  "ts": "2026-09-21T15:01:00",
+  "text": "EU 3PL integration is being built on the new iPaaS connectors, not the legacy ones, so we need iPaaS before we can go live."
+ },
+ {
+  "channel": "#it-leads",
+  "user": "Owen Hughes",
+  "ts": "2026-09-22T08:33:00",
+  "text": "Heads up from the warranty sync: the serialization vendor says their API won't be ready until mid-November, about 3 weeks late. Supply chain tracker still shows it green."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-22T09:04:00",
+  "text": "FYI laptop refresh can't start its pilot until MDM is live."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-22T09:32:00",
+  "text": "patching is still blocked: Awaiting legal review of the DPA. Been waiting since 9/22."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-22T12:55:00",
+  "text": "FYI badges can't start its pilot until JML is live."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-22T13:54:00",
+  "text": "patching: moving the target to 1/22 (was 1/1). Will explain in the weekly."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-22T15:21:00",
+  "text": "badges is holding 10/30 as the go-live."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Hannah Lee",
+  "ts": "2026-09-22T16:19:00",
+  "text": "license reclamation is holding 11/27 as the go-live."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Chris Duarte",
+  "ts": "2026-09-23T10:22:00",
+  "text": "ZTNA is holding 1/29 as the go-live."
+ },
+ {
+  "channel": "#it-leads",
+  "user": "Nina Petrova",
+  "ts": "2026-09-23T12:37:00",
+  "text": "Reminder that peak-season freeze for commerce is 11/16 to 12/1."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Chris Duarte",
+  "ts": "2026-09-23T13:35:00",
+  "text": "FYI ZTNA can't start its pilot until JML is live."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-23T13:44:00",
+  "text": "JML is still blocked: HRIS field mapping from the People team. Been waiting since 9/10."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-23T16:03:00",
+  "text": "JML: moving the target to 11/13 (was 10/16). Will explain in the weekly."
+ },
+ {
+  "channel": "#it-leads",
+  "user": "Marcus Bell",
+  "ts": "2026-09-24T16:03:00",
+  "text": "iPaaS vendor amendment is still with procurement. Anyone have a contact there who can expedite?"
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Chris Duarte",
+  "ts": "2026-09-26T09:49:00",
+  "text": "onboarding kits still on track for Mar 12."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Jess Moreau",
+  "ts": "2026-09-26T11:33:00",
+  "text": "Farewell cake at 3 👋"
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-27T12:24:00",
+  "text": "Wi-Fi is holding 3/12 as the go-live."
+ },
+ {
+  "channel": "#wpt-projects",
+  "user": "Marco Rossi",
+  "ts": "2026-09-27T16:59:00",
+  "text": "Austin network is holding 11/6 as the go-live."
+ }
+]

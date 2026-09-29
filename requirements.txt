@@ -1,0 +1,3 @@
+# The demo, build, eval and tests use only the Python standard library.
+# Needed only to re-record model output live (python -m pipeline.build --backend claude):
+anthropic>=0.40

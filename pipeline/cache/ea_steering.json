@@ -1,0 +1,390 @@
+{
+ "meta": {
+  "model": "claude-opus-5-5",
+  "recorded_via": "Claude, run interactively on prompts/extract_unstructured.md with the exact input from `python -m pipeline.extract --print-input ea_steering` (not through the API script). Re-record with --backend claude.",
+  "recorded_at": "2026-09-29T19:51:08+00:00",
+  "prompt_sha": "48ab14f33dd4ca6e",
+  "source_sha": "b4a5d71283c683d0",
+  "note": "Re-pinned after a punctuation-only edit to document headings; no quoted text changed and every quote re-verified against the new source."
+ },
+ "output": {
+  "programs": [
+   {
+    "program_id": "EAI-01",
+    "owner": "Marcus Bell",
+    "reported_status": "Amber",
+    "target_date": "2026-12-11",
+    "baseline_date": "2026-10-30",
+    "last_update": "2026-09-24",
+    "blocker": "Vendor contract amendment unsigned; sitting with Procurement",
+    "blocker_since": "2026-09-08",
+    "why": "Every ERP, bank and 3PL integration routes through it",
+    "done": false,
+    "quotes": {
+     "owner": "**iPaaS** (Marcus Bell)",
+     "reported_status": "**iPaaS** (Marcus Bell). Status: Amber.",
+     "target_date": "Committee accepted a new date of Dec 11 (baseline was Oct 30).",
+     "baseline_date": "Committee accepted a new date of Dec 11 (baseline was Oct 30).",
+     "last_update": "**iPaaS** (Marcus Bell). Status: Amber.",
+     "blocker": "Blocker: Vendor contract amendment unsigned; sitting with Procurement, open since 9/8.",
+     "why": "Why: Every ERP, bank and 3PL integration routes through it."
+    }
+   },
+   {
+    "program_id": "EAI-02",
+    "owner": "Sofia Lindqvist",
+    "reported_status": "Green",
+    "target_date": "2027-03-12",
+    "baseline_date": "2027-03-12",
+    "last_update": "2026-09-24",
+    "blocker": null,
+    "blocker_since": null,
+    "why": "Current warehouse can't scale past next year",
+    "done": false,
+    "quotes": {
+     "owner": "**EDW** (Sofia Lindqvist)",
+     "reported_status": "**EDW** (Sofia Lindqvist). Status: Green.",
+     "target_date": "**EDW** (Sofia Lindqvist). Status: Green. Holding Mar 12.",
+     "baseline_date": "**EDW** (Sofia Lindqvist). Status: Green. Holding Mar 12.",
+     "last_update": "**EDW** (Sofia Lindqvist). Status: Green.",
+     "why": "Why: Current warehouse can't scale past next year."
+    }
+   },
+   {
+    "program_id": "EAI-03",
+    "owner": "Marcus Bell",
+    "reported_status": "Green",
+    "target_date": "2026-10-23",
+    "baseline_date": "2026-10-23",
+    "last_update": "2026-09-24",
+    "blocker": null,
+    "blocker_since": null,
+    "why": null,
+    "done": false,
+    "quotes": {
+     "owner": "**product MDM** (Marcus Bell)",
+     "reported_status": "**product MDM** (Marcus Bell). Status: Green.",
+     "target_date": "**product MDM** (Marcus Bell). Status: Green. On plan for Oct 23.",
+     "baseline_date": "**product MDM** (Marcus Bell). Status: Green. On plan for Oct 23.",
+     "last_update": "**product MDM** (Marcus Bell). Status: Green."
+    }
+   },
+   {
+    "program_id": "EAI-04",
+    "owner": "Arjun Rao",
+    "reported_status": "Green",
+    "target_date": "2026-12-18",
+    "baseline_date": "2026-11-13",
+    "last_update": "2026-09-24",
+    "blocker": null,
+    "blocker_since": null,
+    "why": "All LLM use must route through approved controls",
+    "done": false,
+    "quotes": {
+     "owner": "**AI gateway** (Arjun Rao)",
+     "reported_status": "**AI gateway** (Arjun Rao). Status: Green.",
+     "target_date": "Committee accepted a new date of Dec 18 (baseline was Nov 13).",
+     "baseline_date": "Committee accepted a new date of Dec 18 (baseline was Nov 13).",
+     "last_update": "**AI gateway** (Arjun Rao). Status: Green.",
+     "why": "Why: All LLM use must route through approved controls."
+    }
+   },
+   {
+    "program_id": "EAI-05",
+    "owner": "Elena Voss",
+    "reported_status": "Amber",
+    "target_date": "2027-01-15",
+    "baseline_date": "2026-12-25",
+    "last_update": "2026-09-10",
+    "blocker": null,
+    "blocker_since": null,
+    "why": "Teams rebuild integrations that already exist",
+    "done": false,
+    "quotes": {
+     "owner": "**API catalog** (Elena Voss)",
+     "reported_status": "**API catalog** (Elena Voss). Status: Amber.",
+     "target_date": "Target moved to Jan 15 from Dec 25.",
+     "baseline_date": "Target moved to Jan 15 from Dec 25.",
+     "last_update": "**API catalog** (Elena Voss). Status: Amber.",
+     "why": "Why: Teams rebuild integrations that already exist."
+    }
+   },
+   {
+    "program_id": "EAI-06",
+    "owner": "Sofia Lindqvist",
+    "reported_status": "Green",
+    "target_date": "2026-10-30",
+    "baseline_date": "2026-10-30",
+    "last_update": "2026-09-24",
+    "blocker": null,
+    "blocker_since": null,
+    "why": "Real-time order events for CX and logistics",
+    "done": false,
+    "quotes": {
+     "owner": "**event bus** (Sofia Lindqvist)",
+     "reported_status": "**event bus** (Sofia Lindqvist). Status: Green.",
+     "target_date": "**event bus** (Sofia Lindqvist). Status: Green. Holding Oct 30.",
+     "baseline_date": "**event bus** (Sofia Lindqvist). Status: Green. Holding Oct 30.",
+     "last_update": "**event bus** (Sofia Lindqvist). Status: Green.",
+     "why": "Why: Real-time order events for CX and logistics."
+    }
+   },
+   {
+    "program_id": "EAI-07",
+    "owner": "Marcus Bell",
+    "reported_status": "Green",
+    "target_date": null,
+    "baseline_date": null,
+    "last_update": "2026-09-24",
+    "blocker": null,
+    "blocker_since": null,
+    "why": "Reviews take 3+ weeks and get skipped",
+    "done": false,
+    "quotes": {
+     "owner": "**ARB** (Marcus Bell)",
+     "reported_status": "**ARB** (Marcus Bell). Status: Green.",
+     "last_update": "**ARB** (Marcus Bell). Status: Green. No date agreed yet; still in discovery.",
+     "why": "Why: Reviews take 3+ weeks and get skipped."
+    }
+   },
+   {
+    "program_id": "EAI-08",
+    "owner": "Marcus Bell",
+    "reported_status": "Amber",
+    "target_date": "2026-11-06",
+    "baseline_date": "2026-11-06",
+    "last_update": "2026-09-24",
+    "blocker": null,
+    "blocker_since": null,
+    "why": "11 tier-1 apps still use local passwords",
+    "done": false,
+    "quotes": {
+     "owner": "**SSO rollout** (Marcus Bell)",
+     "reported_status": "**SSO rollout** (Marcus Bell). Status: Amber.",
+     "target_date": "**SSO rollout** (Marcus Bell). Status: Amber. Holding Nov 6.",
+     "baseline_date": "**SSO rollout** (Marcus Bell). Status: Amber. Holding Nov 6.",
+     "last_update": "**SSO rollout** (Marcus Bell). Status: Amber.",
+     "why": "Why: 11 tier-1 apps still use local passwords."
+    }
+   },
+   {
+    "program_id": "EAI-09",
+    "owner": "Sofia Lindqvist",
+    "reported_status": "Amber",
+    "target_date": "2026-12-25",
+    "baseline_date": "2026-12-11",
+    "last_update": "2026-09-24",
+    "blocker": "Waiting on vendor SOW countersignature",
+    "blocker_since": "2026-09-23",
+    "why": null,
+    "done": false,
+    "quotes": {
+     "owner": "**deletion automation** (Sofia Lindqvist)",
+     "reported_status": "**deletion automation** (Sofia Lindqvist). Status: Amber.",
+     "target_date": "Committee accepted a new date of Dec 25 (baseline was Dec 11).",
+     "baseline_date": "Committee accepted a new date of Dec 25 (baseline was Dec 11).",
+     "last_update": "**deletion automation** (Sofia Lindqvist). Status: Amber.",
+     "blocker": "Blocker: Waiting on vendor SOW countersignature, open since 9/23."
+    }
+   },
+   {
+    "program_id": "EAI-10",
+    "owner": "Arjun Rao",
+    "reported_status": "Green",
+    "target_date": "2027-02-26",
+    "baseline_date": "2027-02-26",
+    "last_update": "2026-09-24",
+    "blocker": null,
+    "blocker_since": null,
+    "why": "Internal Q&A over policies and runbooks",
+    "done": false,
+    "quotes": {
+     "owner": "**knowledge assistant** (Arjun Rao)",
+     "reported_status": "**knowledge assistant** (Arjun Rao). Status: Green.",
+     "target_date": "**knowledge assistant** (Arjun Rao). Status: Green. On plan for Feb 26.",
+     "baseline_date": "**knowledge assistant** (Arjun Rao). Status: Green. On plan for Feb 26.",
+     "last_update": "**knowledge assistant** (Arjun Rao). Status: Green.",
+     "why": "Why: Internal Q&A over policies and runbooks."
+    }
+   },
+   {
+    "program_id": "EAI-11",
+    "owner": "Elena Voss",
+    "reported_status": "Amber",
+    "target_date": "2027-02-26",
+    "baseline_date": "2027-02-26",
+    "last_update": "2026-09-10",
+    "blocker": null,
+    "blocker_since": null,
+    "why": null,
+    "done": false,
+    "quotes": {
+     "owner": "**vendor risk** (Elena Voss)",
+     "reported_status": "**vendor risk** (Elena Voss). Status: Amber.",
+     "target_date": "**vendor risk** (Elena Voss). Status: Amber. On plan for Feb 26.",
+     "baseline_date": "**vendor risk** (Elena Voss). Status: Amber. On plan for Feb 26.",
+     "last_update": "**vendor risk** (Elena Voss). Status: Amber."
+    }
+   },
+   {
+    "program_id": "EAI-12",
+    "owner": "Arjun Rao",
+    "reported_status": "Green",
+    "target_date": "2027-01-01",
+    "baseline_date": "2027-01-01",
+    "last_update": "2026-09-24",
+    "blocker": null,
+    "blocker_since": null,
+    "why": null,
+    "done": false,
+    "quotes": {
+     "owner": "**observability** (Arjun Rao)",
+     "reported_status": "**observability** (Arjun Rao). Status: Green.",
+     "target_date": "**observability** (Arjun Rao). Status: Green. On plan for Jan 1.",
+     "baseline_date": "**observability** (Arjun Rao). Status: Green. On plan for Jan 1.",
+     "last_update": "**observability** (Arjun Rao). Status: Green."
+    }
+   },
+   {
+    "program_id": "EAI-13",
+    "owner": "Marcus Bell",
+    "reported_status": "Green",
+    "target_date": "2026-11-13",
+    "baseline_date": "2026-11-13",
+    "last_update": "2026-09-24",
+    "blocker": null,
+    "blocker_since": null,
+    "why": "Cloud spend grew 60% year over year",
+    "done": false,
+    "quotes": {
+     "owner": "**cloud cost** (Marcus Bell)",
+     "reported_status": "**cloud cost** (Marcus Bell). Status: Green.",
+     "target_date": "**cloud cost** (Marcus Bell). Status: Green. On plan for Nov 13.",
+     "baseline_date": "**cloud cost** (Marcus Bell). Status: Green. On plan for Nov 13.",
+     "last_update": "**cloud cost** (Marcus Bell). Status: Green.",
+     "why": "Why: Cloud spend grew 60% year over year."
+    }
+   },
+   {
+    "program_id": "EAI-14",
+    "owner": "Arjun Rao",
+    "reported_status": "Green",
+    "target_date": "2027-04-09",
+    "baseline_date": "2027-03-19",
+    "last_update": "2026-09-24",
+    "blocker": "Awaiting legal review of the DPA",
+    "blocker_since": "2026-09-24",
+    "why": null,
+    "done": false,
+    "quotes": {
+     "owner": "**secrets** (Arjun Rao)",
+     "reported_status": "**secrets** (Arjun Rao). Status: Green.",
+     "target_date": "Committee accepted a new date of Apr 9 (baseline was Mar 19).",
+     "baseline_date": "Committee accepted a new date of Apr 9 (baseline was Mar 19).",
+     "last_update": "**secrets** (Arjun Rao). Status: Green.",
+     "blocker": "Blocker: Awaiting legal review of the DPA, open since 9/24."
+    }
+   },
+   {
+    "program_id": "EAI-15",
+    "owner": "Elena Voss",
+    "reported_status": "Green",
+    "target_date": "2027-02-05",
+    "baseline_date": "2027-01-08",
+    "last_update": "2026-09-24",
+    "blocker": null,
+    "blocker_since": null,
+    "why": null,
+    "done": false,
+    "quotes": {
+     "owner": "**EU residency** (Elena Voss)",
+     "reported_status": "**EU residency** (Elena Voss). Status: Green.",
+     "target_date": "Target moved to Feb 5 from Jan 8.",
+     "baseline_date": "Target moved to Feb 5 from Jan 8.",
+     "last_update": "**EU residency** (Elena Voss). Status: Green."
+    }
+   },
+   {
+    "program_id": "EAI-16",
+    "owner": "Marcus Bell",
+    "reported_status": "Green",
+    "target_date": "2027-03-12",
+    "baseline_date": "2027-03-12",
+    "last_update": "2026-09-24",
+    "blocker": null,
+    "blocker_since": null,
+    "why": "Automates invoice capture for P2P",
+    "done": false,
+    "quotes": {
+     "owner": "**invoice AI** (Marcus Bell)",
+     "reported_status": "**invoice AI** (Marcus Bell). Status: Green.",
+     "target_date": "**invoice AI** (Marcus Bell). Status: Green. On plan for Mar 12.",
+     "baseline_date": "**invoice AI** (Marcus Bell). Status: Green. On plan for Mar 12.",
+     "last_update": "**invoice AI** (Marcus Bell). Status: Green.",
+     "why": "Why: Automates invoice capture for P2P."
+    }
+   }
+  ],
+  "dependencies": [
+   {
+    "downstream_id": "ERP-01",
+    "upstream_id": "EAI-01",
+    "quote": "the ERP go-live (Nov 2) can't happen before the iPaaS cutover."
+   },
+   {
+    "downstream_id": "ERP-01",
+    "upstream_id": "EAI-03",
+    "quote": "The ERP team needs clean product master data before their go-live"
+   },
+   {
+    "downstream_id": "SCT-12",
+    "upstream_id": "EAI-03",
+    "quote": "customs automation classifies from it."
+   },
+   {
+    "downstream_id": "ERP-13",
+    "upstream_id": "EAI-02",
+    "quote": "Finance's reporting data mart will be built on the new EDW."
+   },
+   {
+    "downstream_id": "EAI-08",
+    "upstream_id": "WPT-01",
+    "quote": "Blocked in practice until Workplace's JML automation ships; accounts are provisioned by it."
+   },
+   {
+    "downstream_id": "EAI-10",
+    "upstream_id": "EAI-04",
+    "quote": "On plan for Feb 26. Can't go to production until AI gateway is live."
+   },
+   {
+    "downstream_id": "EAI-16",
+    "upstream_id": "EAI-04",
+    "quote": "On plan for Mar 12. Can't go to production until AI gateway is live."
+   },
+   {
+    "downstream_id": "ERP-05",
+    "upstream_id": "EAI-15",
+    "quote": "Finance's multi-entity consolidation for the new EU entity is waiting on this reference architecture."
+   },
+   {
+    "downstream_id": "ERP-03",
+    "upstream_id": "EAI-16",
+    "quote": "Invoice capture from this feeds Procure-to-pay automation on the ERP side."
+   }
+  ],
+  "signals": [
+   {
+    "program_id": "ERP-01",
+    "kind": "schedule_risk",
+    "summary": "The ERP go-live (Nov 2) can't happen before the iPaaS cutover, and iPaaS has moved to Dec 11.",
+    "quote": "Reminder: the ERP go-live (Nov 2) can't happen before the iPaaS cutover."
+   },
+   {
+    "program_id": "EAI-01",
+    "kind": "schedule_risk",
+    "summary": "The committee will escalate the unsigned iPaaS contract amendment to the CFO's office if it isn't signed by Oct 2.",
+    "quote": "Escalate the iPaaS contract amendment to the CFO's office if unsigned by 10/2."
+   }
+  ]
+ }
+}

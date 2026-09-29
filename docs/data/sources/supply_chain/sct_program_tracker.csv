@@ -1,0 +1,18 @@
+Project,Lead,RAG,Go-live (plan),Go-live (orig),Last touched,Depends on,Business value,Notes
+Demand planning platform,Luis Ortega,G,4/16/2027,3/26/2027,9/22/2026,Enterprise data warehouse modernization (EAI),Replaces the spreadsheet forecast for 40+ SKUs,scope frozen
+EU 3PL warehouse integration,Mei Tanaka,G,1/15/2027,1/15/2027,9/20/2026,,New EU fulfilment centre opens in Q1,UAT planning
+US 3PL EDI modernization,Luis Ortega,G,11/20/2026,11/20/2026,9/19/2026,,EDI failures stall ~3% of orders,weekly sync w/ vendor
+Device serialization & traceability,Sam Adeyemi,G,10/30/2026,10/30/2026,9/23/2026,,Needed for warranty and recall readiness,see deck
+Returns & refurbishment tracking,Mei Tanaka,G,12/4/2026,11/6/2026,9/25/2026,,Refurbished inventory is invisible to planning,see deck
+Supplier portal,TBD,Y,2/12/2027,1/8/2027,9/26/2026,,Suppliers email POs and ASNs today,see deck
+Inbound logistics visibility,Sam Adeyemi,Y,10/16/2026,10/16/2026,8/31/2026,,No ETA on inbound components,see deck
+Carrier rate shopping,Mei Tanaka,G,12/18/2026,11/27/2026,9/21/2026,,Estimated 6% outbound freight savings,Blocked: data migration defects in UAT (since 9/21)
+Contract manufacturer data feed,Luis Ortega,G,2/12/2027,1/22/2027,9/22/2026,,Daily yield data arrives as PDFs,UAT planning
+Component shortage early warning,Sam Adeyemi,G,10/30/2026,10/30/2026,9/20/2026,,Two stockouts last year started as silent shortages,weekly sync w/ vendor
+Inventory allocation engine,Mei Tanaka,G,12/4/2026,12/4/2026,9/20/2026,Inventory costing rework (ERP),Allocates constrained stock across channels,weekly sync w/ vendor
+Customs & trade compliance automation,Sam Adeyemi,G,3/12/2027,3/5/2027,9/21/2026,Product master data management (EAI),Every new SKU is classified by hand,weekly sync w/ vendor
+Warranty replacement fulfillment,Mei Tanaka,G,2/26/2027,2/26/2027,9/25/2026,Warranty claim automation (CX),Replacements ship in 9 days against a 3-day target,weekly sync w/ vendor
+S&OP dashboard,Luis Ortega,G,4/30/2027,4/30/2027,9/19/2026,Demand planning platform,Monthly S&OP runs on stale data,scope frozen
+Packaging BOM management,Mei Tanaka,Complete,8/31/2026,8/31/2026,9/22/2026,,Packaging changes break costing,scope frozen
+Forecast accuracy analytics,Sam Adeyemi,G,1/15/2027,1/15/2027,9/22/2026,,Forecast error is not measured today,see deck
+Retail replenishment (EDI 852),Mei Tanaka,G,1/22/2027,1/8/2027,9/23/2026,US 3PL EDI modernization,Retail partners require sell-through feeds,

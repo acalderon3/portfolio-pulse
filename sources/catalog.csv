@@ -1,0 +1,101 @@
+id,name,team,team_name,tier,source,source_key
+ERP-01,Core financials ERP cutover,ERP,ERP,1,jira,FIN-110
+ERP-02,Order-to-cash redesign,ERP,ERP,1,jira,FIN-117
+ERP-03,Procure-to-pay automation,ERP,ERP,2,jira,FIN-124
+ERP-04,Fixed assets module,ERP,ERP,3,jira,FIN-131
+ERP-05,Multi-entity consolidation,ERP,ERP,1,jira,FIN-138
+ERP-06,Revenue recognition automation (ASC 606),ERP,ERP,1,jira,FIN-145
+ERP-07,Bank reconciliation automation,ERP,ERP,3,jira,FIN-152
+ERP-08,Indirect tax engine integration,ERP,ERP,2,jira,FIN-159
+ERP-09,Inventory costing rework,ERP,ERP,2,jira,FIN-166
+ERP-10,Intercompany eliminations,ERP,ERP,2,jira,FIN-173
+ERP-11,Close acceleration (10 to 6 days),ERP,ERP,2,jira,FIN-180
+ERP-12,Chart of accounts redesign,ERP,ERP,2,jira,FIN-187
+ERP-13,ERP reporting data mart,ERP,ERP,3,jira,FIN-194
+ERP-14,Vendor master data cleanup,ERP,ERP,2,jira,FIN-201
+ERP-15,Expense management integration,ERP,ERP,3,jira,FIN-208
+ERP-16,FP&A planning tool integration,ERP,ERP,3,jira,FIN-215
+ERP-17,SOX ITGC remediation (ERP access),ERP,ERP,1,jira,FIN-222
+SCT-01,Demand planning platform,SCT,Supply Chain Technology,1,sheet,Demand planning platform
+SCT-02,EU 3PL warehouse integration,SCT,Supply Chain Technology,1,sheet,EU 3PL warehouse integration
+SCT-03,US 3PL EDI modernization,SCT,Supply Chain Technology,2,sheet,US 3PL EDI modernization
+SCT-04,Device serialization & traceability,SCT,Supply Chain Technology,1,sheet,Device serialization & traceability
+SCT-05,Returns & refurbishment tracking,SCT,Supply Chain Technology,2,sheet,Returns & refurbishment tracking
+SCT-06,Supplier portal,SCT,Supply Chain Technology,3,sheet,Supplier portal
+SCT-07,Inbound logistics visibility,SCT,Supply Chain Technology,2,sheet,Inbound logistics visibility
+SCT-08,Carrier rate shopping,SCT,Supply Chain Technology,3,sheet,Carrier rate shopping
+SCT-09,Contract manufacturer data feed,SCT,Supply Chain Technology,2,sheet,Contract manufacturer data feed
+SCT-10,Component shortage early warning,SCT,Supply Chain Technology,2,sheet,Component shortage early warning
+SCT-11,Inventory allocation engine,SCT,Supply Chain Technology,2,sheet,Inventory allocation engine
+SCT-12,Customs & trade compliance automation,SCT,Supply Chain Technology,3,sheet,Customs & trade compliance automation
+SCT-13,Warranty replacement fulfillment,SCT,Supply Chain Technology,2,sheet,Warranty replacement fulfillment
+SCT-14,S&OP dashboard,SCT,Supply Chain Technology,3,sheet,S&OP dashboard
+SCT-15,Packaging BOM management,SCT,Supply Chain Technology,3,sheet,Packaging BOM management
+SCT-16,Forecast accuracy analytics,SCT,Supply Chain Technology,3,sheet,Forecast accuracy analytics
+SCT-17,Retail replenishment (EDI 852),SCT,Supply Chain Technology,2,sheet,Retail replenishment (EDI 852)
+COM-01,B2B CPQ for enterprise wellness,COM,Commercial Systems,2,confluence,b2b-cpq-for-enterprise-wellness.md
+COM-02,CRM org consolidation,COM,Commercial Systems,1,confluence,crm-org-consolidation.md
+COM-03,E-commerce checkout replatform,COM,Commercial Systems,1,confluence,e-commerce-checkout-replatform.md
+COM-04,Subscription billing migration,COM,Commercial Systems,1,confluence,subscription-billing-migration.md
+COM-05,Partner portal,COM,Commercial Systems,3,confluence,partner-portal.md
+COM-06,Pricing & promotions engine,COM,Commercial Systems,2,confluence,pricing-promotions-engine.md
+COM-07,Retail POS integration,COM,Commercial Systems,3,confluence,retail-pos-integration.md
+COM-08,Consent & preference center,COM,Commercial Systems,1,confluence,consent-preference-center.md
+COM-09,Customer data platform,COM,Commercial Systems,2,confluence,customer-data-platform.md
+COM-10,Lead routing automation,COM,Commercial Systems,3,confluence,lead-routing-automation.md
+COM-11,Membership entitlement service,COM,Commercial Systems,1,confluence,membership-entitlement-service.md
+COM-12,Gift card & store credit,COM,Commercial Systems,3,confluence,gift-card-store-credit.md
+COM-13,Checkout tax calculation,COM,Commercial Systems,2,confluence,checkout-tax-calculation.md
+COM-14,B2B invoicing,COM,Commercial Systems,2,confluence,b2b-invoicing.md
+COM-15,Affiliate tracking replacement,COM,Commercial Systems,3,confluence,affiliate-tracking-replacement.md
+COM-16,JP/KR storefront localization,COM,Commercial Systems,2,confluence,jp-kr-storefront-localization.md
+COM-17,Sales commission tooling,COM,Commercial Systems,3,confluence,sales-commission-tooling.md
+CX-01,Contact center telephony migration,CX,CX Technology,1,status_doc,Contact center telephony migration
+CX-02,Knowledge base rebuild,CX,CX Technology,2,status_doc,Knowledge base rebuild
+CX-03,AI agent assist for support,CX,CX Technology,2,status_doc,AI agent assist for support
+CX-04,Returns self-service portal,CX,CX Technology,1,status_doc,Returns self-service portal
+CX-05,Order status bot,CX,CX Technology,2,status_doc,Order status bot
+CX-06,Warranty claim automation,CX,CX Technology,2,status_doc,Warranty claim automation
+CX-07,Support QA scoring,CX,CX Technology,3,status_doc,Support QA scoring
+CX-08,CSAT & NPS pipeline,CX,CX Technology,3,status_doc,CSAT & NPS pipeline
+CX-09,Device diagnostics log upload,CX,CX Technology,2,status_doc,Device diagnostics log upload
+CX-10,Omnichannel routing,CX,CX Technology,2,status_doc,Omnichannel routing
+CX-11,Support workforce management,CX,CX Technology,3,status_doc,Support workforce management
+CX-12,Community forum migration,CX,CX Technology,3,status_doc,Community forum migration
+CX-13,Ticket taxonomy redesign,CX,CX Technology,3,status_doc,Ticket taxonomy redesign
+CX-14,APAC BPO onboarding,CX,CX Technology,1,status_doc,APAC BPO onboarding
+CX-15,Voice of customer analytics,CX,CX Technology,3,status_doc,Voice of customer analytics
+CX-16,Support tool SSO & access review,CX,CX Technology,1,status_doc,Support tool SSO & access review
+CX-17,Proactive shipping-delay outreach,CX,CX Technology,2,status_doc,Proactive shipping-delay outreach
+WPT-01,Identity lifecycle automation (JML),WPT,Workplace Technology,1,slack,
+WPT-02,Laptop refresh FY27,WPT,Workplace Technology,2,slack,
+WPT-03,MDM consolidation,WPT,Workplace Technology,2,slack,
+WPT-04,SF HQ conference room refresh,WPT,Workplace Technology,3,slack,
+WPT-05,Austin office network upgrade,WPT,Workplace Technology,3,slack,
+WPT-06,ITSM platform rollout,WPT,Workplace Technology,1,slack,
+WPT-07,Workspace DLP policies,WPT,Workplace Technology,2,slack,
+WPT-08,Zero-trust network access,WPT,Workplace Technology,2,slack,
+WPT-09,Printer fleet retirement,WPT,Workplace Technology,3,slack,
+WPT-10,New-hire onboarding kit automation,WPT,Workplace Technology,2,slack,
+WPT-11,SaaS license reclamation,WPT,Workplace Technology,2,slack,
+WPT-12,Service desk chatbot,WPT,Workplace Technology,3,slack,
+WPT-13,Endpoint patch compliance,WPT,Workplace Technology,1,slack,
+WPT-14,Badge system integration,WPT,Workplace Technology,2,slack,
+WPT-15,Asset inventory reconciliation,WPT,Workplace Technology,3,slack,
+WPT-16,SF office Wi-Fi upgrade,WPT,Workplace Technology,3,slack,
+EAI-01,Integration platform (iPaaS) migration,EAI,Enterprise Architecture & AI,1,steering,
+EAI-02,Enterprise data warehouse modernization,EAI,Enterprise Architecture & AI,1,steering,
+EAI-03,Product master data management,EAI,Enterprise Architecture & AI,1,steering,
+EAI-04,AI gateway & model governance,EAI,Enterprise Architecture & AI,1,steering,
+EAI-05,API catalog,EAI,Enterprise Architecture & AI,3,steering,
+EAI-06,Order event bus,EAI,Enterprise Architecture & AI,2,steering,
+EAI-07,Architecture review board refresh,EAI,Enterprise Architecture & AI,3,steering,
+EAI-08,SSO for tier-1 applications,EAI,Enterprise Architecture & AI,1,steering,
+EAI-09,Privacy data deletion automation,EAI,Enterprise Architecture & AI,1,steering,
+EAI-10,Employee knowledge assistant (LLM),EAI,Enterprise Architecture & AI,2,steering,
+EAI-11,Vendor risk assessment automation,EAI,Enterprise Architecture & AI,2,steering,
+EAI-12,Observability platform,EAI,Enterprise Architecture & AI,2,steering,
+EAI-13,Cloud cost governance,EAI,Enterprise Architecture & AI,2,steering,
+EAI-14,Secrets management rollout,EAI,Enterprise Architecture & AI,1,steering,
+EAI-15,EU data residency reference architecture,EAI,Enterprise Architecture & AI,2,steering,
+EAI-16,Document AI for AP invoices,EAI,Enterprise Architecture & AI,2,steering,

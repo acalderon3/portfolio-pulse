@@ -1,0 +1,86 @@
+Issue key,Issue Type,Summary,Status,Assignee,Custom field (Health),Due date,Custom field (Baseline Due),Updated,Inward issue link (Blocks),Custom field (External Dependency),Custom field (Blocker),Custom field (Blocked Since),Description
+FIN-110,Epic,Core financials ERP cutover,In Progress,Dana Whitfield,On Track,02/Nov/26 12:00 AM,02/Nov/26 12:00 AM,25/Sep/26 3:53 PM,FIN-201,,,,"h2. Why
+Single ledger for all entities; retires three legacy finance tools.
+
+h2. Scope
+See linked stories."
+FIN-117,Epic,Order-to-cash redesign,To Do,Rahul Mehta,On Track,20/Nov/26 12:00 AM,20/Nov/26 12:00 AM,27/Sep/26 9:37 AM,FIN-110,,,,"h2. Why
+Cuts invoice-to-cash from 41 to 25 days.
+
+h2. Scope
+See linked stories."
+FIN-124,Epic,Procure-to-pay automation,Blocked,Grace Okafor,On Track,26/Mar/27 12:00 AM,26/Mar/27 12:00 AM,26/Sep/26 12:22 PM,,,Awaiting legal review of the DPA,24/Sep/26 12:00 AM,"h2. Why
+Removes manual PO matching for ~2,000 invoices a month.
+
+h2. Scope
+See linked stories."
+FIN-131,Epic,Fixed assets module,In Progress,Tomasz Nowak,On Track,12/Mar/27 12:00 AM,22/Jan/27 12:00 AM,22/Sep/26 4:46 PM,,,,,"h2. Why
+Replaces spreadsheet depreciation schedules.
+
+h2. Scope
+See linked stories."
+FIN-138,Epic,Multi-entity consolidation,In Progress,Dana Whitfield,At Risk,02/Apr/27 12:00 AM,02/Apr/27 12:00 AM,29/Aug/26 3:35 PM,FIN-187,,,,"h2. Why
+Needed to add the new EU entity next fiscal year.
+
+h2. Scope
+See linked stories."
+FIN-145,Epic,Revenue recognition automation (ASC 606),In Progress,Dana Whitfield,On Track,26/Mar/27 12:00 AM,26/Mar/27 12:00 AM,24/Sep/26 11:13 AM,,Subscription billing migration,,,"h2. Why
+Subscription revenue is booked by hand today.
+
+h2. Scope
+See linked stories."
+FIN-152,Epic,Bank reconciliation automation,In Progress,Dana Whitfield,On Track,12/Feb/27 12:00 AM,01/Jan/27 12:00 AM,23/Sep/26 1:27 PM,,,,,"h2. Why
+Frees ~3 FTE-days per close.
+
+h2. Scope
+See linked stories."
+FIN-159,Epic,Indirect tax engine integration,In Progress,Dana Whitfield,On Track,04/Dec/26 12:00 AM,04/Dec/26 12:00 AM,26/Sep/26 8:32 AM,,,,,"h2. Why
+Audit exposure on US sales tax.
+
+h2. Scope
+See linked stories."
+FIN-166,Epic,Inventory costing rework,In Progress,Dana Whitfield,On Track,16/Dec/26 12:00 AM,16/Dec/26 12:00 AM,24/Sep/26 10:30 AM,FIN-110,,,,"h2. Why
+Standard-cost errors distort gross margin.
+
+h2. Scope
+See linked stories."
+FIN-173,Epic,Intercompany eliminations,In Progress,Tomasz Nowak,On Track,15/Jan/27 12:00 AM,08/Jan/27 12:00 AM,19/Sep/26 3:39 PM,,,,,"h2. Why
+Manual eliminations add 2 days to close.
+
+h2. Scope
+See linked stories."
+FIN-180,Epic,Close acceleration (10 to 6 days),In Progress,Grace Okafor,On Track,31/Dec/26 12:00 AM,04/Dec/26 12:00 AM,21/Sep/26 8:40 AM,,,,,"h2. Why
+Board asked for faster monthly reporting.
+
+h2. Scope
+See linked stories."
+FIN-187,Epic,Chart of accounts redesign,In Progress,Tomasz Nowak,On Track,19/Mar/27 12:00 AM,19/Mar/27 12:00 AM,19/Sep/26 3:08 PM,,,,,"h2. Why
+Prerequisite for reporting by product line.
+
+h2. Scope
+See linked stories."
+FIN-194,Epic,ERP reporting data mart,In Progress,Grace Okafor,On Track,02/Apr/27 12:00 AM,26/Mar/27 12:00 AM,21/Sep/26 1:21 PM,,,,,"h2. Why
+Finance self-serve reporting.
+
+h2. Scope
+See linked stories."
+FIN-201,Epic,Vendor master data cleanup,In Progress,Rahul Mehta,On Track,16/Oct/26 12:00 AM,16/Oct/26 12:00 AM,21/Sep/26 8:47 AM,,,,,"h2. Why
+Duplicate vendors cause double payments.
+
+h2. Scope
+See linked stories."
+FIN-208,Epic,Expense management integration,In Progress,Tomasz Nowak,On Track,11/Dec/26 12:00 AM,11/Dec/26 12:00 AM,24/Sep/26 1:08 PM,,,,,"h2. Why
+Card spend lands in the ledger a month late.
+
+h2. Scope
+See linked stories."
+FIN-215,Epic,FP&A planning tool integration,Blocked,Rahul Mehta,At Risk,01/Jan/27 12:00 AM,13/Nov/26 12:00 AM,27/Sep/26 3:58 PM,,,Awaiting legal review of the DPA,17/Sep/26 12:00 AM,"h2. Why
+Plan-vs-actual is rebuilt in spreadsheets.
+
+h2. Scope
+See linked stories."
+FIN-222,Epic,SOX ITGC remediation (ERP access),In Progress,Tomasz Nowak,On Track,20/Nov/26 12:00 AM,20/Nov/26 12:00 AM,20/Sep/26 9:16 AM,,,,,"h2. Why
+Open audit findings on ERP access; must close before year-end audit.
+
+h2. Scope
+See linked stories."

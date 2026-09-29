@@ -1,0 +1,14 @@
+[
+ {
+  "team": "COM",
+  "name": "Peak-season code freeze",
+  "start": "2026-11-16",
+  "end": "2026-12-01"
+ },
+ {
+  "team": "ERP",
+  "name": "Year-end close freeze",
+  "start": "2026-12-18",
+  "end": "2027-01-08"
+ }
+]

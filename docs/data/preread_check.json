@@ -1,0 +1,50 @@
+{
+ "passed": true,
+ "checks": [
+  {
+   "check": "Every program ID exists",
+   "pass": true,
+   "detail": "33 IDs referenced"
+  },
+  {
+   "check": "Health tags match the data",
+   "pass": true,
+   "detail": "22 tags checked"
+  },
+  {
+   "check": "Headline counts match",
+   "pass": true,
+   "detail": "text (100, 11, 31, 55, 3, 21), data (100, 11, 31, 55, 3, 21)"
+  },
+  {
+   "check": "Every Red program is mentioned",
+   "pass": true,
+   "detail": "all 11 Reds present"
+  },
+  {
+   "check": "Hygiene list 'No owner' is complete and exact",
+   "pass": true,
+   "detail": "3 programs"
+  },
+  {
+   "check": "Hygiene list 'No target date' is complete and exact",
+   "pass": true,
+   "detail": "2 programs"
+  },
+  {
+   "check": "Hygiene list 'Stale' is complete and exact",
+   "pass": true,
+   "detail": "7 programs"
+  },
+  {
+   "check": "Hygiene list 'Past due' is complete and exact",
+   "pass": true,
+   "detail": "1 programs"
+  },
+  {
+   "check": "Hygiene list 'Freeze collisions' is complete and exact",
+   "pass": true,
+   "detail": "5 programs"
+  }
+ ]
+}

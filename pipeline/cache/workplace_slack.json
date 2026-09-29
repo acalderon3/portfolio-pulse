@@ -1,0 +1,375 @@
+{
+ "meta": {
+  "model": "claude-opus-5-5",
+  "recorded_via": "Claude, run interactively on prompts/extract_unstructured.md with the exact input from `python -m pipeline.extract --print-input workplace_slack` (not through the API script). Re-record with --backend claude.",
+  "recorded_at": "2026-09-29T19:51:08+00:00",
+  "prompt_sha": "48ab14f33dd4ca6e",
+  "source_sha": "9fae0682c6f96333",
+  "note": "Re-pinned after a punctuation-only edit to document headings; no quoted text changed and every quote re-verified against the new source."
+ },
+ "output": {
+  "programs": [
+   {
+    "program_id": "WPT-01",
+    "owner": "Marco Rossi",
+    "reported_status": null,
+    "target_date": "2026-11-13",
+    "baseline_date": "2026-10-16",
+    "last_update": "2026-09-23",
+    "blocker": "HRIS field mapping from the People team",
+    "blocker_since": "2026-09-10",
+    "why": "leavers keep access for days; open SOX finding",
+    "done": false,
+    "quotes": {
+     "owner": "I'm driving JML from here on, ping me with anything.",
+     "target_date": "JML: moving the target to 11/13 (was 10/16).",
+     "baseline_date": "JML: moving the target to 11/13 (was 10/16).",
+     "last_update": "JML: moving the target to 11/13 (was 10/16). Will explain in the weekly.",
+     "blocker": "JML is still blocked: HRIS field mapping from the People team. Been waiting since 9/10.",
+     "why": "Reminder of why JML matters: leavers keep access for days; open SOX finding."
+    }
+   },
+   {
+    "program_id": "WPT-02",
+    "owner": "Marco Rossi",
+    "reported_status": null,
+    "target_date": "2027-04-23",
+    "baseline_date": "2027-04-23",
+    "last_update": "2026-09-22",
+    "blocker": null,
+    "blocker_since": null,
+    "why": null,
+    "done": false,
+    "quotes": {
+     "owner": "Quick laptop refresh kickoff notes: I'm the owner, weekly updates here.",
+     "target_date": "laptop refresh is holding 4/23 as the go-live.",
+     "baseline_date": "laptop refresh is holding 4/23 as the go-live.",
+     "last_update": "FYI laptop refresh can't start its pilot until MDM is live."
+    }
+   },
+   {
+    "program_id": "WPT-03",
+    "owner": "Chris Duarte",
+    "reported_status": null,
+    "target_date": "2027-04-09",
+    "baseline_date": "2027-03-12",
+    "last_update": "2026-09-21",
+    "blocker": null,
+    "blocker_since": null,
+    "why": "two MDM tools with inconsistent policy",
+    "done": false,
+    "quotes": {
+     "owner": "Quick MDM kickoff notes: I'm the owner, weekly updates here.",
+     "target_date": "MDM: moving the target to 4/9 (was 3/12).",
+     "baseline_date": "MDM: moving the target to 4/9 (was 3/12).",
+     "last_update": "MDM: moving the target to 4/9 (was 3/12). Will explain in the weekly.",
+     "why": "Reminder of why MDM matters: two MDM tools with inconsistent policy."
+    }
+   },
+   {
+    "program_id": "WPT-04",
+    "owner": "Marco Rossi",
+    "reported_status": null,
+    "target_date": "2026-12-11",
+    "baseline_date": "2026-12-04",
+    "last_update": "2026-09-04",
+    "blocker": null,
+    "blocker_since": null,
+    "why": null,
+    "done": false,
+    "quotes": {
+     "owner": "I'm driving room refresh from here on, ping me with anything.",
+     "target_date": "room refresh: moving the target to 12/11 (was 12/4).",
+     "baseline_date": "room refresh: moving the target to 12/11 (was 12/4).",
+     "last_update": "room refresh: moving the target to 12/11 (was 12/4). Will explain in the weekly."
+    }
+   },
+   {
+    "program_id": "WPT-05",
+    "owner": "Marco Rossi",
+    "reported_status": null,
+    "target_date": "2026-11-06",
+    "baseline_date": "2026-11-06",
+    "last_update": "2026-09-27",
+    "blocker": null,
+    "blocker_since": null,
+    "why": "office switches are end-of-support",
+    "done": false,
+    "quotes": {
+     "owner": "I'm driving Austin network from here on, ping me with anything.",
+     "target_date": "Austin network is holding 11/6 as the go-live.",
+     "baseline_date": "Austin network is holding 11/6 as the go-live.",
+     "last_update": "Austin network is holding 11/6 as the go-live.",
+     "why": "Reminder of why Austin network matters: office switches are end-of-support."
+    }
+   },
+   {
+    "program_id": "WPT-06",
+    "owner": "Hannah Lee",
+    "reported_status": null,
+    "target_date": "2026-12-11",
+    "baseline_date": "2026-12-11",
+    "last_update": "2026-09-21",
+    "blocker": "Waiting on vendor SOW countersignature",
+    "blocker_since": "2026-09-21",
+    "why": null,
+    "done": false,
+    "quotes": {
+     "owner": "I'm driving ITSM from here on, ping me with anything.",
+     "target_date": "ITSM is holding 12/11 as the go-live.",
+     "baseline_date": "ITSM is holding 12/11 as the go-live.",
+     "last_update": "ITSM is still blocked: Waiting on vendor SOW countersignature. Been waiting since 9/21.",
+     "blocker": "ITSM is still blocked: Waiting on vendor SOW countersignature. Been waiting since 9/21."
+    }
+   },
+   {
+    "program_id": "WPT-07",
+    "owner": "Hannah Lee",
+    "reported_status": null,
+    "target_date": "2026-12-04",
+    "baseline_date": "2026-12-04",
+    "last_update": "2026-09-19",
+    "blocker": null,
+    "blocker_since": null,
+    "why": null,
+    "done": false,
+    "quotes": {
+     "owner": "Quick DLP kickoff notes: I'm the owner, weekly updates here.",
+     "target_date": "DLP still on track for Dec 4.",
+     "baseline_date": "DLP still on track for Dec 4.",
+     "last_update": "DLP still on track for Dec 4."
+    }
+   },
+   {
+    "program_id": "WPT-08",
+    "owner": "Chris Duarte",
+    "reported_status": null,
+    "target_date": "2027-01-29",
+    "baseline_date": "2027-01-29",
+    "last_update": "2026-09-23",
+    "blocker": null,
+    "blocker_since": null,
+    "why": "replaces the legacy VPN",
+    "done": false,
+    "quotes": {
+     "owner": "Picking up ZTNA. I'll own it going forward.",
+     "target_date": "ZTNA is holding 1/29 as the go-live.",
+     "baseline_date": "ZTNA is holding 1/29 as the go-live.",
+     "last_update": "FYI ZTNA can't start its pilot until JML is live.",
+     "why": "Reminder of why ZTNA matters: replaces the legacy VPN."
+    }
+   },
+   {
+    "program_id": "WPT-09",
+    "owner": null,
+    "reported_status": null,
+    "target_date": "2026-12-18",
+    "baseline_date": "2026-12-18",
+    "last_update": "2026-09-20",
+    "blocker": null,
+    "blocker_since": null,
+    "why": null,
+    "done": false,
+    "quotes": {
+     "target_date": "printers is holding 12/18 as the go-live.",
+     "baseline_date": "printers is holding 12/18 as the go-live.",
+     "last_update": "printers is holding 12/18 as the go-live."
+    }
+   },
+   {
+    "program_id": "WPT-10",
+    "owner": "Chris Duarte",
+    "reported_status": null,
+    "target_date": "2027-03-12",
+    "baseline_date": "2027-03-12",
+    "last_update": "2026-09-26",
+    "blocker": null,
+    "blocker_since": null,
+    "why": null,
+    "done": false,
+    "quotes": {
+     "owner": "Quick onboarding kits kickoff notes: I'm the owner, weekly updates here.",
+     "target_date": "onboarding kits still on track for Mar 12.",
+     "baseline_date": "onboarding kits still on track for Mar 12.",
+     "last_update": "onboarding kits still on track for Mar 12."
+    }
+   },
+   {
+    "program_id": "WPT-11",
+    "owner": "Hannah Lee",
+    "reported_status": null,
+    "target_date": "2026-11-27",
+    "baseline_date": "2026-11-27",
+    "last_update": "2026-09-22",
+    "blocker": null,
+    "blocker_since": null,
+    "why": null,
+    "done": false,
+    "quotes": {
+     "owner": "Picking up license reclamation. I'll own it going forward.",
+     "target_date": "license reclamation is holding 11/27 as the go-live.",
+     "baseline_date": "license reclamation is holding 11/27 as the go-live.",
+     "last_update": "license reclamation is holding 11/27 as the go-live."
+    }
+   },
+   {
+    "program_id": "WPT-12",
+    "owner": "Hannah Lee",
+    "reported_status": null,
+    "target_date": null,
+    "baseline_date": null,
+    "last_update": "2026-09-02",
+    "blocker": null,
+    "blocker_since": null,
+    "why": "deflects password and access requests",
+    "done": false,
+    "quotes": {
+     "owner": "I'm driving desk bot from here on, ping me with anything.",
+     "last_update": "No date for desk bot yet, still scoping.",
+     "why": "Reminder of why desk bot matters: deflects password and access requests."
+    }
+   },
+   {
+    "program_id": "WPT-13",
+    "owner": "Hannah Lee",
+    "reported_status": null,
+    "target_date": "2027-01-22",
+    "baseline_date": "2027-01-01",
+    "last_update": "2026-09-22",
+    "blocker": "Awaiting legal review of the DPA",
+    "blocker_since": "2026-09-22",
+    "why": "patch compliance is 78% against a 95% target",
+    "done": false,
+    "quotes": {
+     "owner": "Quick patching kickoff notes: I'm the owner, weekly updates here.",
+     "target_date": "patching: moving the target to 1/22 (was 1/1).",
+     "baseline_date": "patching: moving the target to 1/22 (was 1/1).",
+     "last_update": "patching: moving the target to 1/22 (was 1/1). Will explain in the weekly.",
+     "blocker": "patching is still blocked: Awaiting legal review of the DPA. Been waiting since 9/22.",
+     "why": "Reminder of why patching matters: patch compliance is 78% against a 95% target."
+    }
+   },
+   {
+    "program_id": "WPT-14",
+    "owner": "Hannah Lee",
+    "reported_status": null,
+    "target_date": "2026-10-30",
+    "baseline_date": "2026-10-30",
+    "last_update": "2026-09-22",
+    "blocker": null,
+    "blocker_since": null,
+    "why": "badge access is not tied to HR status",
+    "done": false,
+    "quotes": {
+     "owner": "Quick badges kickoff notes: I'm the owner, weekly updates here.",
+     "target_date": "badges is holding 10/30 as the go-live.",
+     "baseline_date": "badges is holding 10/30 as the go-live.",
+     "last_update": "badges is holding 10/30 as the go-live.",
+     "why": "Reminder of why badges matters: badge access is not tied to HR status."
+    }
+   },
+   {
+    "program_id": "WPT-15",
+    "owner": "Marco Rossi",
+    "reported_status": "Closed",
+    "target_date": "2026-09-01",
+    "baseline_date": "2026-09-01",
+    "last_update": "2026-09-19",
+    "blocker": null,
+    "blocker_since": null,
+    "why": "asset records don't match reality",
+    "done": true,
+    "quotes": {
+     "owner": "Quick asset recon kickoff notes: I'm the owner, weekly updates here.",
+     "reported_status": "asset recon is done 🎉 closed out on 9/1.",
+     "target_date": "asset recon is done 🎉 closed out on 9/1.",
+     "baseline_date": "asset recon is done 🎉 closed out on 9/1.",
+     "last_update": "asset recon is done 🎉 closed out on 9/1.",
+     "why": "Reminder of why asset recon matters: asset records don't match reality."
+    }
+   },
+   {
+    "program_id": "WPT-16",
+    "owner": "Marco Rossi",
+    "reported_status": null,
+    "target_date": "2027-03-12",
+    "baseline_date": "2027-03-12",
+    "last_update": "2026-09-27",
+    "blocker": null,
+    "blocker_since": null,
+    "why": "capacity for twice the headcount",
+    "done": false,
+    "quotes": {
+     "owner": "I'm driving Wi-Fi from here on, ping me with anything.",
+     "target_date": "Wi-Fi is holding 3/12 as the go-live.",
+     "baseline_date": "Wi-Fi is holding 3/12 as the go-live.",
+     "last_update": "Wi-Fi is holding 3/12 as the go-live.",
+     "why": "Reminder of why Wi-Fi matters: capacity for twice the headcount."
+    }
+   }
+  ],
+  "dependencies": [
+   {
+    "downstream_id": "WPT-12",
+    "upstream_id": "WPT-06",
+    "quote": "FYI desk bot can't start its pilot until ITSM is live."
+   },
+   {
+    "downstream_id": "WPT-02",
+    "upstream_id": "WPT-03",
+    "quote": "FYI laptop refresh can't start its pilot until MDM is live."
+   },
+   {
+    "downstream_id": "WPT-14",
+    "upstream_id": "WPT-01",
+    "quote": "FYI badges can't start its pilot until JML is live."
+   },
+   {
+    "downstream_id": "WPT-08",
+    "upstream_id": "WPT-01",
+    "quote": "FYI ZTNA can't start its pilot until JML is live."
+   },
+   {
+    "downstream_id": "ERP-17",
+    "upstream_id": "WPT-01",
+    "quote": "Our SOX ITGC remediation assumes JML is automating it by then."
+   },
+   {
+    "downstream_id": "CX-14",
+    "upstream_id": "WPT-01",
+    "quote": "For the APAC BPO go-live on 11/2 we're counting on JML to create the agents' accounts. No JML, no agents on the phones."
+   },
+   {
+    "downstream_id": "SCT-02",
+    "upstream_id": "EAI-01",
+    "quote": "EU 3PL integration is being built on the new iPaaS connectors, not the legacy ones, so we need iPaaS before we can go live."
+   }
+  ],
+  "signals": [
+   {
+    "program_id": "SCT-04",
+    "kind": "contradicts_reported_status",
+    "summary": "The serialization vendor now says its API won't be ready until mid-November, about three weeks late, but the supply chain tracker still shows the program Green.",
+    "quote": "the serialization vendor says their API won't be ready until mid-November, about 3 weeks late. Supply chain tracker still shows it green."
+   },
+   {
+    "program_id": "ERP-17",
+    "kind": "schedule_risk",
+    "summary": "Auditors test leaver deprovisioning in December, and SOX remediation assumes JML is automating it by then.",
+    "quote": "Auditors will test leaver deprovisioning in December."
+   },
+   {
+    "program_id": "CX-14",
+    "kind": "schedule_risk",
+    "summary": "The APAC BPO go-live on Nov 2 needs JML to create agent accounts.",
+    "quote": "For the APAC BPO go-live on 11/2 we're counting on JML to create the agents' accounts."
+   },
+   {
+    "program_id": "EAI-01",
+    "kind": "schedule_risk",
+    "summary": "The iPaaS vendor amendment is still with Procurement and the lead is asking for help to expedite it.",
+    "quote": "iPaaS vendor amendment is still with procurement. Anyone have a contact there who can expedite?"
+   }
+  ]
+ }
+}

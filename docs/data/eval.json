@@ -1,0 +1,158 @@
+{
+ "as_of": "2026-09-28",
+ "fields": [
+  {
+   "source": "jira",
+   "method": "parser",
+   "owner": 1.0,
+   "self_status": 1.0,
+   "target": 1.0,
+   "baseline": 1.0,
+   "last_update": 1.0,
+   "blocker_text": 1.0,
+   "blocker_since": 1.0,
+   "done": 1.0,
+   "overall": 1.0
+  },
+  {
+   "source": "sheet",
+   "method": "parser",
+   "owner": 1.0,
+   "self_status": 1.0,
+   "target": 1.0,
+   "baseline": 1.0,
+   "last_update": 1.0,
+   "blocker_text": 1.0,
+   "blocker_since": 1.0,
+   "done": 1.0,
+   "overall": 1.0
+  },
+  {
+   "source": "confluence",
+   "method": "parser",
+   "owner": 1.0,
+   "self_status": 1.0,
+   "target": 1.0,
+   "baseline": 1.0,
+   "last_update": 1.0,
+   "blocker_text": 1.0,
+   "blocker_since": 1.0,
+   "done": 1.0,
+   "overall": 1.0
+  },
+  {
+   "source": "status_doc",
+   "method": "parser",
+   "owner": 1.0,
+   "self_status": 1.0,
+   "target": 1.0,
+   "baseline": 1.0,
+   "last_update": 1.0,
+   "blocker_text": 1.0,
+   "blocker_since": 1.0,
+   "done": 1.0,
+   "overall": 1.0
+  },
+  {
+   "source": "slack",
+   "method": "model",
+   "owner": 1.0,
+   "self_status": 1.0,
+   "target": 1.0,
+   "baseline": 1.0,
+   "last_update": 1.0,
+   "blocker_text": 1.0,
+   "blocker_since": 1.0,
+   "done": 1.0,
+   "overall": 1.0
+  },
+  {
+   "source": "steering",
+   "method": "model",
+   "owner": 1.0,
+   "self_status": 1.0,
+   "target": 1.0,
+   "baseline": 1.0,
+   "last_update": 1.0,
+   "blocker_text": 1.0,
+   "blocker_since": 1.0,
+   "done": 1.0,
+   "overall": 1.0
+  }
+ ],
+ "field_misses": [],
+ "dependencies": {
+  "expected": 47,
+  "found": 47,
+  "true_positive": 47,
+  "precision": 1.0,
+  "recall": 1.0,
+  "chat_and_notes_only_recall": 1.0,
+  "missed": [],
+  "extra": []
+ },
+ "health": {
+  "agreement": 1.0,
+  "confusion": [
+   {
+    "truth": "amber",
+    "pipeline": "amber",
+    "n": 31
+   },
+   {
+    "truth": "done",
+    "pipeline": "done",
+    "n": 3
+   },
+   {
+    "truth": "green",
+    "pipeline": "green",
+    "n": 55
+   },
+   {
+    "truth": "red",
+    "pipeline": "red",
+    "n": 11
+   }
+  ],
+  "disagreements": []
+ },
+ "planted": [
+  {
+   "scenario": "One unsigned iPaaS contract puts the ERP go-live and 6 other programs at risk",
+   "detected": true
+  },
+  {
+   "scenario": "ERP go-live reports Green but is Red on evidence",
+   "detected": true
+  },
+  {
+   "scenario": "JML blocker cascades into SOX remediation and the APAC support launch",
+   "detected": true
+  },
+  {
+   "scenario": "Serialization tracker says Green; chat says the vendor is 3 weeks late",
+   "detected": true
+  },
+  {
+   "scenario": "Checkout replatform go-live lands inside the peak-season freeze",
+   "detected": true
+  },
+  {
+   "scenario": "Forum migration is past its date and still open",
+   "detected": true
+  },
+  {
+   "scenario": "Three programs have no owner",
+   "detected": true
+  },
+  {
+   "scenario": "Two programs have no target date",
+   "detected": true
+  }
+ ],
+ "grounding": {
+  "failures": [],
+  "model_fields_checked": 165
+ }
+}
