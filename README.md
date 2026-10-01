@@ -48,7 +48,7 @@ The generator knows the real facts behind every messy artifact, so [`pipeline/ev
 3. The checker caught stale headline counts in Claude's pre-read draft.
 4. A human read caught what no script could: a miscounted "four teams", and a deadline the model had invented inside a recommendation.
 
-*Honest caveat:* templated synthetic text is easier than real chat, so the 100% scores show that the checks work. They are not a claim about real-world accuracy.
+*caveat:* templated synthetic text is easier than real chat, so the 100% scores show that the checks work. They are not a claim about real world accuracy.
 
 ## Why the demo costs nothing
 
@@ -57,32 +57,6 @@ The site in [`docs/`](docs) is plain HTML and JS reading a committed snapshot. M
 ```bash
 pip install anthropic && export ANTHROPIC_API_KEY=...
 make live          # re-runs extraction, rebuilds, re-scores, re-verifies
-```
-
-## Run it locally
-
-```bash
-make all           # build snapshot, score vs ground truth, verify pre-read, run tests (stdlib only; tests need pytest)
-make serve         # http://localhost:8000
-make data          # regenerate the synthetic sources (deterministic)
-```
-
-CI ([`.github/workflows/check.yml`](.github/workflows/check.yml)) runs all of this on every push.
-
-## Deploy the demo (GitHub Pages)
-
-Push the repo, then go to **Settings → Pages → Deploy from a branch → `main` / `/docs`**. The site's links to the source files turn on automatically once it's served from `github.io`.
-
-## Repo map
-
-```
-generator/   synthetic company, programs, planted risks, six messy source formats
-sources/     the generated artifacts (what each team "actually maintains")
-ground_truth/ real facts, read only by eval.py
-pipeline/    adapters (parsers) · extract (Claude + grounding) · rubric · build · eval · verify_preread
-prompts/     extraction, weekly pre-read, intake triage
-docs/        the static demo site + data snapshot (GitHub Pages root)
-tests/       grounding and rubric tests
 ```
 
 ## What I'd do in the first 90 days with real data
